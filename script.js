@@ -1,6 +1,6 @@
 const messages = [
     "Are you sure?",
-    "Sige di mo nako crush pag priness mo yan!",
+    "Sige di mo nako crush!",
     "Aba! Oky ouch...",
     "Sure na ba yan? :(",
     "Just think about it!",
