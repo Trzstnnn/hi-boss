@@ -2,13 +2,13 @@ const messages = [
     "Are you sure?",
     "Really sure??",
     "Are you positive?",
-    "Pookie please...",
+    "Sure na ba yan? :(",
     "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Sige isa pa, iiyak talaga ako!!",
+    "Ge iiyak ako sige ka:(",
+    "I will be very very very sad!!!!!",
+    "Ok dwg! Titigilan na kita...",
+    "joke lang, sige na please! 🥺"
 ];
 
 let messageIndex = 0;
