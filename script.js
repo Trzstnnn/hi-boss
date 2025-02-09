@@ -1,7 +1,7 @@
 const messages = [
     "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
+    "Sige di mo nako crush pag priness mo yan!",
+    "Aba! Oky ouch...",
     "Sure na ba yan? :(",
     "Just think about it!",
     "Sige isa pa, iiyak talaga ako!!",
