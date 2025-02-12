@@ -15,11 +15,9 @@ body {
 }
 
 .header_text {
-    text-align: center;
     font-size: 2em;
     color: #d32f2f;
     position: fixed;
-    top: 0;
 }
 
 .gif_container img {
