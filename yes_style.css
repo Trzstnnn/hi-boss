@@ -10,15 +10,15 @@ body {
 
 .container {
     text-align: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    text-align: center;
 }
 
 .header_text {
     font-size: 3em;
     color: #d32f2f;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    text-align: center;
 }
 
 .gif_container img {
