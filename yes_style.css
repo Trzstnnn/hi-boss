@@ -14,12 +14,12 @@
 }
 
 .header_text {
-    font-size: 2em;
+    font-size: 1.5em;
     color: #d32f2f;
 }
 
 .gif_container img {
-    width: 90%; 
-    max-width: 200px; 
+    width: 70%; 
+    max-width: 100px; 
     height: auto; 
 }
