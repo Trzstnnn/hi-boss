@@ -10,13 +10,11 @@ body {
 
 .container {
     text-align: center;
-    position: fixed;
 }
 
 .header_text {
     font-size: 2em;
     color: #d32f2f;
-    position: fixed;
 }
 
 .gif_container img {
