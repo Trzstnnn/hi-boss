@@ -11,8 +11,6 @@ body {
 .container {
     text-align: center;
     position: fixed;
-    top: 0;
-    text-align: center;
 }
 
 .header_text {
